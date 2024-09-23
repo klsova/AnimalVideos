@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "AnimalVideos",
+    "description": "Opens wholesome animal videos for you.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "Animalvideos.html",
+      "default_icon": "cat.png"
+    }
+  }
